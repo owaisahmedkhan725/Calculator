@@ -1,7 +1,7 @@
 # Author: github.com/owaisahmedkhan725
 
 # Calculator v-1.0
-# Basic Static Calculator.
+# Basic Static Calculator
 # Static Answers of All Possible Calculations.
 
 print () # For space
