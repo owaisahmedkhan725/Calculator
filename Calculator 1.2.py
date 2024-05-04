@@ -2,7 +2,7 @@
 
 # Calculator v-1.2
 # Calculator
-# Answers of All possible Calculations of given values at Once.
+# Answers to All possible Calculations of given values at Once.
 # This Update Fixes the Error In the Division Of Zero.
 
 print()
