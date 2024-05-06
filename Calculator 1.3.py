@@ -2,7 +2,7 @@
 
 # Calculator v-1.3
 # Calculator
-# Take Values And Perform Calculation as per Choosen Action
+# Take Values And Perform Calculations as per the chosen action
 # This Update Includes Choosing Actions.
 
 print ()
