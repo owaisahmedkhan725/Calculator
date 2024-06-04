@@ -3,7 +3,7 @@
 # Calculator v-1.5
 # Calculator++
 # This Can Run the program in loops until exit.
-# Making the Calculator launch automatic to perform another calculation until exit.
+# Making the Calculator launch automatically to perform another calculation until exit.
 
 while True:
         
@@ -20,12 +20,12 @@ while True:
         print ("For divide Press 4")
         print ("For Square of ",x, "Press 5")
         print ("For Square of ",y, "Press 6")
-        print("For",x," Modulus ",y,"Press 7")
+        print("For",x," Modulus ",y, "Press 7")
         print ("For Increment of ",x, "Press 8")
         print ("For Decrement of ",x, "Press 9")
         print ("For Increment of ",y, "Press 10")
         print ("For Decrement of ",y, "Press 11")
-        print ("For Percemtage of ",x,"%",y,"Press 12")
+        print ("For Percentage of ",x,"%",y,"Press 12")
         print ()
         print ("Choice action above by Press 1 to 12")
         print ()
