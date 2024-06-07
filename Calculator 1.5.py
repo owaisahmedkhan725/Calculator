@@ -71,6 +71,7 @@ while True:
         elif(z==12):
             l =(x*y)/100
             print("Percentege of ",x,"%",y,"=",l)
+                
         else:
             print("Invalid Action")
         print()
